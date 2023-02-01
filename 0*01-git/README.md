@@ -1,0 +1,1 @@
+my second readme and i am so excited i can actually do this on my own without going through the steps in my project zero. i have actually been working on completing project zero for two days now and i have finally been able to figure it out. thank you alx for this opportunity to actually learn. i know i will definitely be a great softwae engineer after this
