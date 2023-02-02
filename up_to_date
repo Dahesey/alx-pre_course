@@ -1,0 +1,6 @@
+I used the < cd ..> command to go back to the 'alx-pre_course' directory 
+used the <ls> command to view the files in the directory 
+used the < cat README.md> to check the content of the README.md file to be sure the content is' My first readme'. 
+after confirming, i used the <echo> command to write the content up_to_date into the file README.md.
+i then created a new file with the < touch> command wit the name 'up_to_date' 
+used the < echo> command to write the commands i used into the up_to_date file.
